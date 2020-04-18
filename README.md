@@ -1,5 +1,1 @@
-<div dir="rtl">
-  
-# لغات تجربه کاربری و کاربردپذیری
-
-</div>
+# User Experience & Product Design Glossary
