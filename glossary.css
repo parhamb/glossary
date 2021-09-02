@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&display=swap');
+body {
+    font-family: Fira Mono !important;
+}
+
+h1 {
+    padding: 50px 0px;
+    color: #1A3F6A;
+}
+
+dt {
+    margin-top: 20px;
+    border-bottom: 1px dotted #1C04FC;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+dd:hover {
+    color: #04844C;
+}
+
+footer {
+    background-color: #E4FCFC;
+    padding: 50px 0px;
+}
